@@ -1,5 +1,6 @@
 ### Olá, eu sou Guilherme Pereira
 
+<img align="center" alt="GuilhermePereiraGuimaraes-msqlserver"  src="https://komarev.com/ghpvc/?username=GuilhermePereiraGuimaraes&style=flat-square">
 
 - 🔭 Eu atualmente não estou trabalhando
 - 🌱 Estou aprendendo HTML5, CSS e Javascript 
