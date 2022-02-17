@@ -5,10 +5,10 @@
 - 🌱 Estou aprendendo HTML5, CSS e Javascript 
 - 😄 Pronome: ele/dele
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/GuilhermePereiraGuimaraes">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePereiraGuimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePereiraGuimaraes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePereiraGuimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePereiraGuimaraes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
