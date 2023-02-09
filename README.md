@@ -4,7 +4,6 @@
 
 - 🔭 Eu atualmente não estou trabalhando
 - 🌱 Estou aprendendo HTML5, CSS e Javascript 
-- 😄 Pronome: ele/dele
 
 <div align="left">
   <a href="https://github.com/GuilhermePereiraGuimaraes">
