@@ -23,7 +23,5 @@
   <a href = "mailto:guilhermezemo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-guimar%C3%A3es-825614206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
- - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.0.0
  
 </div>
