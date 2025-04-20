@@ -2,8 +2,6 @@
 
 <img align="center" alt="GuilhermePereiraGuimaraes-msqlserver"  src="https://komarev.com/ghpvc/?username=GuilhermePereiraGuimaraes&style=flat-square">
 
-- 🔭 Eu atualmente não estou trabalhando
-- 🌱 Estou aprendendo Angular, Java e Typescript
 
 <div align="left">
   <a href="https://github.com/GuilhermePereiraGuimaraes">
